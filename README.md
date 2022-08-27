@@ -7,7 +7,7 @@ The colors are not 100% accurate and tweaked a little to work better with Zellij
 curl -sS 'https://raw.githubusercontent.com/ghostcrafter551/everforest-dark-zellij/main/install.sh' | bash
 ```
 ## Manual installaion
-Download [everforest.yaml](https://raw.githubusercontent.com/ghostcrafter551/everforest-dark-zellij/main/everforest.yaml) and put it in the `~/.config/zellij/themes' folder (create if necessary).  
+Download [everforest.yaml](https://raw.githubusercontent.com/ghostcrafter551/everforest-dark-zellij/main/everforest.yaml) and put it in the `~/.config/zellij/themes` folder (create if necessary).  
 Activate it with 
 ```yaml
 theme: everforest-dark-medium

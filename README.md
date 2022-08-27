@@ -4,7 +4,7 @@ The colors are not 100% accurate and tweaked a little to work better with [Zelli
 
 ## Quick install 
 ```bash
-curl -sS 'https://raw.githubusercontent.com/ghostcrafter551/everforest-dark-zellij/main/install.sh' | bas
+curl -sS 'https://raw.githubusercontent.com/ghostcrafter551/everforest-dark-zellij/main/install.sh' | bash
 ```
 
 ## Normal install

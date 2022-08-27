@@ -1,6 +1,6 @@
 # Everforest Dark - Zellij
 This is a port of the [Everforest Dark Medium](https://github.com/sainnhe/everforest) theme for Zellij. 
-The colors are not 100% accurate and tweaked a little to work with [Zellij](https://github.com/zellij-org/zellij).
+The colors are not 100% accurate and tweaked a little to work better with [Zellij](https://github.com/zellij-org/zellij).
 
 ## Quick install
 > Only woks if you haven't set `theme: xyz` in your `config.yaml`, because it sets the theme as default.  

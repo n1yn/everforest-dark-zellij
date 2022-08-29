@@ -1,6 +1,8 @@
 # Everforest Dark - Zellij
 This is a port of the [Everforest Dark Medium](https://github.com/sainnhe/everforest) theme for the [Zellij terminal multiplexer](https://github.com/zellij-org/zellij). 
 The colors are not 100% accurate and tweaked a little to work better with Zellij.
+Also, to function correctly you need to install and activate an everforest dark theme for your current terminal. 
+Look in the [Zellij Wiki](https://github.com/sainnhe/everforest/wiki) for terminal themes.
 
 ## Quick installation  
 ```bash

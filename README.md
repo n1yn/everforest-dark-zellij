@@ -6,10 +6,10 @@ Look in the [Zellij Wiki](https://github.com/sainnhe/everforest/wiki) for termin
 
 ## Quick installation  
 ```bash
-curl -sS 'https://raw.githubusercontent.com/ghostcrafter551/everforest-dark-zellij/main/install.sh' | bash
+curl -sS 'https://raw.githubusercontent.com/n1yn/everforest-dark-zellij/main/install.sh' | bash
 ```
 ## Manual installaion
-Download [everforest.yaml](https://raw.githubusercontent.com/ghostcrafter551/everforest-dark-zellij/main/everforest.yaml) and put it in the `~/.config/zellij/themes` folder (create if necessary).  
+Download [everforest.yaml](https://raw.githubusercontent.com/n1yn/everforest-dark-zellij/main/everforest.yaml) and put it in the `~/.config/zellij/themes` folder (create if necessary).  
 Activate it with 
 ```yaml
 theme: everforest-dark-medium
